@@ -11,7 +11,7 @@ static final String API_SECRET = "value";  //secretKey from BITKER
 
 
 
-REST-Python-demo
+REST-Python-demo (Version must be python 2.7.5)
 
 #replace with your apiKey and secretKey
 
